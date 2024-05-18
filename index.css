@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+.inside-box {
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+}
+.fa{
+    color: blue;
+}
+p{
+    font-size: 15px;
+}
+.box{
+    padding: 60px 2px;
+}
